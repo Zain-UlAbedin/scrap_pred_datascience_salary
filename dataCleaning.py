@@ -5,9 +5,9 @@ Created on Sun Jan 23 16:11:25 2022
 @author: Zain Khan
 
 In this program we are going to clean the dataset that
-we aquired from scrapping glassdoor website. The process
-involve are as follows.
-these steps looks important for me after going through the dataset
+we aquired from scrapping glassdoor website. The processes involved are as follows.
+
+the below steps looks important for me after going through the dataset
 
 clean salary estimate column
 company name text only
