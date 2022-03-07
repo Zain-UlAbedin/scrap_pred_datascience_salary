@@ -147,4 +147,3 @@ print(model.predict(np.array(list(X_test.iloc[1,:])).reshape(1,-1))[0])
 
 
 
-
